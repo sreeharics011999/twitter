@@ -1,0 +1,177 @@
+*{
+padding: 0px;
+margin:0px;
+}
+.outer
+{
+    width:1430px;
+    height:1015px;
+    background:black;
+    
+    
+}
+.image1
+{
+    width: 690.733px;
+    height:928.6px;
+float:left;
+float:bottom;
+
+}
+.box21
+{
+    width: 72px;
+    height:72px;
+    padding-top: 34px;
+    padding-left: 32px;
+    opacity: 85%;
+}
+.box22
+{
+    color:rgb(231,233, 234);
+    font-size: 88px;
+    line-height: 84px;
+    font-stretch: ;
+    font-weight: 700px;
+    font-family:'Noto Sans TC', sans-serif;
+    letter-spacing:-1.2px;
+    padding-top: 65px;
+    padding-left: 730px;
+}
+.box23
+{
+    color:rgb(231,233,234);
+    font-size: 36px;
+    font-family: 'Noto Sans TC', sans-serif;
+    padding-top: 61px;
+    padding-left: 733px;
+    letter-spacing: .3px;
+}
+button
+{
+    width: 361px;
+    height: 47px;
+    margin-left: 734px;
+    color:black;
+    align-items: center;
+    display:flex;
+    justify-content: center;
+    letter-spacing: 2px;
+    margin-top: 39px;
+    border-radius:50px;
+
+}
+.box24 img
+{
+width: 25px;
+height:25px;
+padding-right: 20px;
+}
+.box25 img
+{
+width: 25px;
+height:25px;
+padding-right: 20px;
+}
+.box25
+{
+    margin-top: 25px;
+}
+.box26
+{
+    color:beige;
+    margin-top: 11px;
+    font-size: 20px;
+    padding-left:740px;
+    font-family: 'Raleway', sans-serif;
+}
+hr
+{
+display: inline-block;
+width:155px;
+}
+.box27
+{
+    color: aliceblue;
+    background-color:rgb(16, 157, 238);
+    border-style: none;
+    margin-top:8px;
+
+}
+.box27:hover{
+    opacity: .93;
+}
+.box28
+{
+    color: aliceblue;
+    font-size: 13px;
+    font-family: 'Raleway', sans-serif;
+    margin-left:734px;
+    margin-top: 10px;
+    line-height:20px;
+
+    
+}
+.box281
+{
+color: rgb(13, 193, 243);
+font-size: 13px;
+text-decoration: none;
+}
+.box281:hover
+{
+    text-decoration: underline;
+}
+.box29
+{
+    color:aliceblue;
+    font-size: 17px;
+    margin-left: 734px;
+    margin-top: 113px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.box30
+{
+    color:rgb(16, 157, 238);
+    background-color: rgb(7, 7, 7);
+    font-size: 18px;
+    margin-top: 25px;
+}
+ .box30:hover
+{
+    opacity: .5;
+    
+}
+.list
+{
+    display: inline-block;
+    color: white;
+    padding-left: 40px;
+    padding-top: 20px;
+    
+}
+a{ 
+    padding-right: 16px;
+    font-family:'Raleway', sans-serif;
+    font-size: 15px;
+    color:rgb(211, 208, 208);
+    text-decoration: none;
+
+    
+}
+.list2{
+    text-align: center;
+    padding-top: 15px;
+}
+a:hover
+{
+    text-decoration: underline;
+}
+span
+{
+    padding-right: 16px;
+    font-family:'Raleway', sans-serif;
+    font-size: 15px;
+    color:rgb(211, 208, 208);
+    text-decoration: none;
+}
